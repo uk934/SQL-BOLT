@@ -1,5 +1,5 @@
 <center>Excercise 1</center>
-<h4> Exercise 1</h4>
+
 
 Find the title of each film
 ~~~sql
